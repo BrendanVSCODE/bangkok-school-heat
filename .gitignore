@@ -1,0 +1,15 @@
+# Private: teachers' contact details. Must never reach GitHub.
+partner_schools.csv
+
+# Private: secrets such as passwords or app passwords.
+.env
+
+# Private: project plan with personal application notes.
+BLUEPRINT.md
+
+# osmnx keeps copies of downloads here so reruns are fast. No need to share it.
+cache/
+
+# Python's compiled files and the virtual environment.
+__pycache__/
+.venv/
